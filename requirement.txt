@@ -2,3 +2,10 @@ llama-index
 openai
 pypdf
 python-dotenv
+streamlit
+google-generativeai
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
